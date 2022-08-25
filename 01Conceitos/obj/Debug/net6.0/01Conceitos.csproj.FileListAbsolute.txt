@@ -1,0 +1,15 @@
+/Users/oberdanmarinho/Development/Studies/RalfLima/POO/01Conceitos/bin/Debug/net6.0/01Conceitos
+/Users/oberdanmarinho/Development/Studies/RalfLima/POO/01Conceitos/bin/Debug/net6.0/01Conceitos.deps.json
+/Users/oberdanmarinho/Development/Studies/RalfLima/POO/01Conceitos/bin/Debug/net6.0/01Conceitos.runtimeconfig.json
+/Users/oberdanmarinho/Development/Studies/RalfLima/POO/01Conceitos/bin/Debug/net6.0/01Conceitos.dll
+/Users/oberdanmarinho/Development/Studies/RalfLima/POO/01Conceitos/bin/Debug/net6.0/01Conceitos.pdb
+/Users/oberdanmarinho/Development/Studies/RalfLima/POO/01Conceitos/obj/Debug/net6.0/01Conceitos.csproj.AssemblyReference.cache
+/Users/oberdanmarinho/Development/Studies/RalfLima/POO/01Conceitos/obj/Debug/net6.0/01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oberdanmarinho/Development/Studies/RalfLima/POO/01Conceitos/obj/Debug/net6.0/01Conceitos.AssemblyInfoInputs.cache
+/Users/oberdanmarinho/Development/Studies/RalfLima/POO/01Conceitos/obj/Debug/net6.0/01Conceitos.AssemblyInfo.cs
+/Users/oberdanmarinho/Development/Studies/RalfLima/POO/01Conceitos/obj/Debug/net6.0/01Conceitos.csproj.CoreCompileInputs.cache
+/Users/oberdanmarinho/Development/Studies/RalfLima/POO/01Conceitos/obj/Debug/net6.0/01Conceitos.dll
+/Users/oberdanmarinho/Development/Studies/RalfLima/POO/01Conceitos/obj/Debug/net6.0/refint/01Conceitos.dll
+/Users/oberdanmarinho/Development/Studies/RalfLima/POO/01Conceitos/obj/Debug/net6.0/01Conceitos.pdb
+/Users/oberdanmarinho/Development/Studies/RalfLima/POO/01Conceitos/obj/Debug/net6.0/01Conceitos.genruntimeconfig.cache
+/Users/oberdanmarinho/Development/Studies/RalfLima/POO/01Conceitos/obj/Debug/net6.0/ref/01Conceitos.dll
